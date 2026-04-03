@@ -49,3 +49,7 @@ body{
     overflow: hidden; 
     transition: max-height 1s;
 }
+#imgBox img{
+    width: 100%;
+    padding: 10px;
+}
