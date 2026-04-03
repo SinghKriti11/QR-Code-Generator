@@ -7,3 +7,9 @@
 body{
     background: #262a2f;
 }
+.container{
+    width: 400px;
+    padding: 25px 35px;
+    position: absolute;
+    top: 50%;
+}
